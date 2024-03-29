@@ -19,7 +19,7 @@ I am open to opportunities for collaboration and internships. Please feel free t
 
 ## News
 
-- **[Oct. 2023]** My Poster won the Best Poster Award at UVA Research Symposium 2023!
+- **[Oct. 2023]** My Poster won the [Best Poster Award](https://www.engineering.virginia.edu/department/computer-science/blogs/2023-cs-research-symposium-highlights) at UVA Research Symposium 2023!
 - **[Aug. 2023]** Started my Ph.D. at UVA!
 - **[May  2023]** Graduated from Lahore University of Management Sciences (LUMS) with my Bachelor's degree!
 
