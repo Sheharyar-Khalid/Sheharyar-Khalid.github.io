@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I'm Sheharyar Khalid, a Ph.D. student in Computer Science at the University of Virginia (UVA), advised by [Prof. Wajih Ul Hassan](https://www.cs.virginia.edu/~hur7wv/) and [Prof. Kevin Skadron](https://www.cs.virginia.edu/~skadron/). I am currently part of the [DART Lab](https://dartlab.org). My academic journey began with a Bachelor of Science in Computer Science from Lahore University of Management Sciences (LUMS). My research ambitiously intersects system security, intrusion detection, SIEM systems, and hardware-based acceleration, with a current focus on developing FPGA-based solutions for efficient log data matching. 
+Hello! I'm Sheharyar Khalid, a Ph.D. student in Computer Science at the University of Virginia (UVA). My academic journey began with a Bachelor of Science in Computer Science from Lahore University of Management Sciences (LUMS).
 
 My current work aims at improving system performance benchmarks and also earned the Best Poster Award at the UVA CS Research Symposium 2023. Additionally, I explore provenance graphs for system security monitoring, aiming to advance secure system monitoring technologies.
 
@@ -12,10 +12,10 @@ I am open to opportunities for collaboration and internships. Please feel free t
 
 
 
-## Research Interests
+<!-- ## Research Interests
 
 - **System Security:** System Security, Intrusion Detection, SIEM Systems
-- **Hardware (FPGAs):** Hardware based Acceleration, FPGA Applications
+- **Hardware (FPGAs):** Hardware based Acceleration, FPGA Applications -->
 
 ## News
 
